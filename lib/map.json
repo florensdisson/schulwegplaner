@@ -1,0 +1,17 @@
+{
+  "bounds3857": [
+    1017471.5625911565,
+    6191285.527144211,
+    1020266.5435764454,
+    6193945.979863019
+  ],
+  "width": 1170,
+  "height": 1114,
+  "school": {
+    "x": 0.22413173646142,
+    "y": 0.28945040015461
+  },
+  "source": "\u00a9 OpenStreetMap-Mitwirkende",
+  "license": "https://www.openstreetmap.org/copyright",
+  "retrievedAt": "2026-10-21"
+}
